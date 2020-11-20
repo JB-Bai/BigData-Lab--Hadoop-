@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="task5-bjb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task5_bjb_jar</output-path>
+    <root id="root">
+      <element id="archive" name="task5-bjb.jar">
+        <element id="module-output" name="task5-bjb" />
+      </element>
+    </root>
+  </artifact>
+</component>

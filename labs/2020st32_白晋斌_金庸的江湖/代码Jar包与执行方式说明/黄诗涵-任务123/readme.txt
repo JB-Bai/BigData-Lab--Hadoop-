@@ -1,0 +1,2 @@
+运行方式：
+hadoop jar /home/2020st32/DataPreprocessing.jar /MP_Data/task2/wuxia_novels /MP_Data/task2/People_List_unique.txt  /user/2020st32/output_task1  /user/2020st32/output_task2  /user/2020st32/output_task3

@@ -1,0 +1,3 @@
+1.MPLab1-171860607-白晋斌.pdf为实验报告
+2.Shakespeare文件夹内含实验报告第二部分统计材料以及统计结果(ShakespeareStatistics文件夹中)
+3.README.MD现在正在打开的...
